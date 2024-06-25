@@ -1,0 +1,1 @@
+<98>'h''a''r''i''t''h'Key.space'b''a''@'Key.shift'!'Key.shift<50>Key.ctrl_l
